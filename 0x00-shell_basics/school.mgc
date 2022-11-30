@@ -1,2 +1,2 @@
 #!/bin/bash
-!:mime School
+file -C -m "magic file"
