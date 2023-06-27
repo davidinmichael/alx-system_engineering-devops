@@ -10,4 +10,4 @@
 ---
 
 ## Author
-* **Bright Daniel** - (https://github.com/brightdaniel)
+* **David Michael** - (https://github.com/davidinmichael)
